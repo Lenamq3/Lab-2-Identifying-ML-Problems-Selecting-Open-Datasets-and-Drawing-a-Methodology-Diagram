@@ -1,1 +1,2 @@
 # Lab-2-Identifying-ML-Problems-Selecting-Open-Datasets-and-Drawing-a-Methodology-Diagram
+This project uses the Student Performance dataset to analyze the factors that influence students' exam scores. The goal is to predict exam results based on features such as study hours, attendance, and family background. Since the target variable (Exam_Score) is numerical, this task is considered a regression problem.
